@@ -12,6 +12,10 @@ img{
 	margin-left: auto;
 	margin-right: auto;
 }
+.nav{
+	text-align:center;
+
+}
 body{
 	padding-left:20px;
 	margin:100px;
@@ -23,5 +27,12 @@ body{
 	border-color: solid blue;
 	padding-top: 10px;
 	padding-bottom:10px;
-	background-image: url(/home/luka/Pictures/hood_hommie-20190306-0002.jpg);
+	background-image: url(/home/luka/Pictures/hood_hommie-20190306-0008.jpg);
+
+}
+h2{
+	color: yellow;
+}
+.happy{
+	color: white;
 }
