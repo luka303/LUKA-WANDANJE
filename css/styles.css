@@ -32,8 +32,13 @@ body{
 }
 h2{
 	color: yellow;
+	font-size: 30px;
+}
+.more{
+	color: white;
+	font-size: 25px;
 }
 .happy{
 	color: white;
-	font-size: 30px;
+	font-size: 25px
 }
