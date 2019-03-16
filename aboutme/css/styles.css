@@ -8,6 +8,10 @@ h2{
 	color: red;
 }
 .me{
-	font-size: 20px;
+	font-size: 15px;
 	font-family: monospace;
+	color: white;
+}
+body{
+	background-image: url(/home/luka/Pictures/hood_hommie-20190223-0010.jpg);
 }
